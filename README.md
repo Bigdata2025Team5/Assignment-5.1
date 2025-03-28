@@ -72,13 +72,11 @@ Existing systems for financial research and analysis often rely on static, isola
 ├── Backend
 │   └── Dockerfile
 |   ├── main.py
-|   ├── opensource.py
 |   ├── requirements.txt
 ├── Diagrams
 │   ├── architecture_diagrams.pmg
 ├── Documentation
 ├── Frontend
-│   ├── Dockerfile
 │   ├── app.py
 │   ├── requirements.txt
 ├── POC  
