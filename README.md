@@ -26,7 +26,7 @@ Existing systems for financial research and analysis often rely on static, isola
 ---
 
 ## 🏗️ Architecture Diagram
-![AI Application Data Pipeline](https://github.com/Bigdata2025Team5/DAMG7245_Team5_Assignment4/blob/dd602cd51efd57c7d7c9e2042b38a1fd1ee84e7b/Diagrams/architecture_diagram.png)
+![AI Application Data Pipeline](https://github.com/Bigdata2025Team5/Assignment-5.1/blob/db337ed8ea89c213c17cf1be8522a0825cdbd409/Architecture%20Diagram.png)
 
 ---
 
