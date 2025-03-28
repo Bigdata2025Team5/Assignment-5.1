@@ -1,0 +1,13 @@
+fastapi
+pydantic
+python-dotenv
+requests
+pandas
+snowflake-connector-python
+litellm
+langchain
+pinecone
+langchain-core
+openai
+uvicorn
+python-multipart
