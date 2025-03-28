@@ -4,7 +4,7 @@
 ## Links 
 Codelabs : https://codelabs-preview.appspot.com/?file_id=1RgLdVbUQtDsAhJ5gTBxKILEPgoRKEFJzlve5-VERqlI#0
 
-Streamlit + FastApi: https://fastapi-app-1057230376331.us-central1.run.app
+Streamlit + FastApi: https://assignment5-1app-rpgzwczewjsk6vxs6qfkat.streamlit.app/
 
 video link : 
  
