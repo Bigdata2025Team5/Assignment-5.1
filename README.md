@@ -6,7 +6,7 @@ Codelabs : https://codelabs-preview.appspot.com/?file_id=1RgLdVbUQtDsAhJ5gTBxKIL
 
 Streamlit + FastApi: https://assignment5-1app-rpgzwczewjsk6vxs6qfkat.streamlit.app/
 
-video link : 
+video link : https://youtu.be/W-RGUi9OURA
  
 ## Assignment Overview 
 Existing systems for financial research and analysis often rely on static, isolated data sources and lack integration across structured and unstructured data. These systems typically require manual data retrieval and fail to provide real-time, context-aware insights or seamless interaction between different data types. The new system being developed will integrate multiple specialized agents using LangGraph, bringing together real-time web searches, structured financial data from Snowflake, and unstructured quarterly reports through Pinecone-powered retrieval. By combining these agents, the system will automatically generate comprehensive research reports, offering dynamic and context-rich responses. This approach will overcome the limitations of existing systems by enabling metadata filtering, real-time insights, and seamless orchestration between agents. The result will be a more efficient, accurate, and user-friendly solution for financial research.
