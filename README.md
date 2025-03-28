@@ -2,7 +2,7 @@
 
 
 ## Links 
-Codelabs : https://codelabs-preview.appspot.com/?file_id=1FsFp8n3X6xz7IsCHB0NFCE-KWDJJl6qW_YntvJh2XEo#5
+Codelabs : https://codelabs-preview.appspot.com/?file_id=1RgLdVbUQtDsAhJ5gTBxKILEPgoRKEFJzlve5-VERqlI#0
 
 Streamlit + FastApi: https://fastapi-app-1057230376331.us-central1.run.app
 
